@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1. # 多模态情感分类项目
 
    本项目基于成对的文本（`.txt`）与图像（`.jpg`）样本，以多模态融合方式预测三类情绪：`negative`、`neutral`、`positive`。
@@ -48,3 +49,7 @@
    1. 根据自身硬件调节 `Code.py` 中的超参（`EPOCHS`、`IMG_SIZE`、`MAX_LEN` 等）以提升效果。
    2. 拓展 `Ablation.py`，记录各类指标或可视化模态特征。
    3. 生成 `submission.csv` 后务必检查是否包含所有测试 `guid` 并符合提交格式。
+=======
+# 2025-AutumnHomeworkH5
+my homework
+>>>>>>> cae2ce16e2e4821188e559b6a7f9947671472ad5
